@@ -1,2 +1,2 @@
-# los-anonimos
+# Los Anónimos
 Hackathon "Discorruption 2022"
